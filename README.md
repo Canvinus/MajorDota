@@ -271,7 +271,7 @@ dotabuff: https://www.dotabuff.com/esports/teams/7554697
 - http://www.dota2protracker.com/player/Noone%20(smurf%203)
 - http://www.dota2protracker.com/player/Noone%20(smurf%204)
 
-**Arteezy**
+#### **Arteezy**
 - http://www.dota2protracker.com/player/Arteezy%20(smurf)
 -  http://www.dota2protracker.com/player/Arteezy%20(smurf%202)
 -  http://www.dota2protracker.com/player/Arteezy%20(smurf%203)
