@@ -3,13 +3,9 @@ datdota: https://www.datdota.com/teams/2163
 dotabuff: https://www.dotabuff.com/esports/teams/2163
 
 [miCKe](http://www.dota2protracker.com/player/miCKe "miCKe")
-
 [qojqva](http://www.dota2protracker.com/player/qojqva "qojqva")
-
 [Boxi](http://www.dota2protracker.com/player/boxi "Boxi")
-
 [Taiga](http://www.dota2protracker.com/player/Taiga "Taiga")
-
 [iNSaNiA](http://www.dota2protracker.com/player/iNSaNiA "iNSaNiA")
 
 
