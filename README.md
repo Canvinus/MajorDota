@@ -1,5 +1,6 @@
 # **Team Liquid**
-datdota: https://www.datdota.com/teams/2163\n
+datdota: https://www.datdota.com/teams/2163
+
 dotabuff: https://www.dotabuff.com/esports/teams/2163
 
 [miCKe](http://www.dota2protracker.com/player/miCKe "miCKe")
